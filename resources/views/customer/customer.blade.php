@@ -11,10 +11,9 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
 
     <div class="container mt-5">
-        <h2>Bootstrap Styled Table</h2>
+        <h2>Bootstrap  Table with add name sandip </h2>
 
         <table class="table table-bordered table-striped">
             <thead class="table-dark">
