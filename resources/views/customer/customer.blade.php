@@ -15,7 +15,7 @@
     <div class="container mt-5">
         <h2>Bootstrap  Table with add name sandip sonagra is creater </h2>
         <?php
-            $sandip = 'sandip sonagra';
+            $sandip = 'sandip dalvadi + abcd';
             echo $sandip;
         ?>
         <table class="table table-bordered table-striped">
